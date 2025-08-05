@@ -1,0 +1,9 @@
+# Node/Parcel
+node_modules/
+dist/
+.parcel-cache/
+
+# env / OS
+.env
+.DS_Store
+*.swp
