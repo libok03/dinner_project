@@ -7,3 +7,6 @@ dist/
 .env
 .DS_Store
 *.swp
+node_modules/
+dist/
+.parcel-cache/
